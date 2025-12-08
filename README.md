@@ -38,3 +38,8 @@ Used professional color themes, icons, and layout to ensure dashboards are visua
 
  Tool Used: Power BI Desktop
  Dataset: WooCommerce Sales Data (Excel/CSV format)
+
+
+ ![image alt](https://github.com/GaneshKurli/WOO-Commerce-Analysis/blob/e8cdfc27121a3fdf14561b896c69cbaa1e06ff9d/Woo%20comeerece%20analysis%20image.png)
+
+ 
