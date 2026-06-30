@@ -61,3 +61,8 @@ To explore the dashboard yourself, follow these instructions:
   <b>Developed by Ganesh Kurli</b> <br>
   <i>Feel free to reach out to me via <a href="https://instagram.com/gana__07">Instagram (@gana__07)</a> for queries or collaborations!</i>
 </div>
+
+
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Made with Heart](https://img.shields.io/badge/Made_With-Heart-red?style=for-the-badge)](#)
+
